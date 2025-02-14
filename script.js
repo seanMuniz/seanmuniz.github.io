@@ -15,5 +15,5 @@ noButton.addEventListener('click', function () {
 });
 
 yesButton.addEventListener('click', function () {
-    alert('Hooray! Love you lots baby. Get ready for our date today @ 6:30pm');
+    alert("Hehehehe. Love you lots babe. Can't wait to spend Valentine's day with my forever valentine!");
 });
